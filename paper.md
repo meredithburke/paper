@@ -1,5 +1,5 @@
-Names: Meredith Burke Sonia Rey 
-Title: Gill Health
+Names: Meredith Burke Sonia Rey John Smith
+Title: Stressors
 Introduction
 cite instrument used
 cite previous studies in introduction
