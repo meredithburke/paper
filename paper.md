@@ -7,3 +7,4 @@ Give context for research
 Methods
 Results
 Figures
+Conclusion
