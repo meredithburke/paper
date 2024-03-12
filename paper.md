@@ -6,3 +6,4 @@ cite previous studies in introduction
 Give context for research
 Methods
 Results
+Figures
