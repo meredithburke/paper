@@ -4,3 +4,4 @@ Introduction
 cite instrument used
 cite previous studies in introduction
 Give context for research
+John's simulations
