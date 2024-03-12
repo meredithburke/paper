@@ -1,4 +1,5 @@
 Names: Meredith Burke Sonia Rey 
+Add author affiliations
 Title: Gill Health Stressors
 Introduction
 cite instrument used
